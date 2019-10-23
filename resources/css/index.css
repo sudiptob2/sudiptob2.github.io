@@ -1,0 +1,78 @@
+body{
+  font-family: "Times New Roman";
+  max-width: 800px;
+  min-width: 450px;
+  text-align: justify;
+}
+.profile_picture img{
+  /* Targetting img is a must to remove padding from the bottom of images
+   * Also display : block
+  */
+  float: right;
+  border-style: solid;
+  border-width: 1px;
+  display: block;
+  margin-top: 5px;
+
+}
+.download_pdf{
+  float: right;
+  margin-right: 5px;
+  margin-top: 5px;
+  
+  display: block;
+}
+.fullname{
+  margin-bottom: 0;
+}
+
+.contact{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.links{
+  margin-top: 0;
+}
+.no_margin_top_bottom{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.career_obj{
+    margin-top: 0;
+}
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+  display: block;
+  overflow: hidden;
+  border-style: inset;
+  border-width: 1px;
+
+}
+.table_border{
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+.skills{
+  margin-bottom: 3px;
+}
+.skill_description{
+  margin-top: 0;
+  margin-bottom: 4px;
+
+}
+.new_section{
+  margin-top: 4px;
+}
+.sub_section{
+  margin-left: 30px;
+}
+.experience_headings{
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+.footer{
+  text-align: center;
+  font-family:monospace;
+}
