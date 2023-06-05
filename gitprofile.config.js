@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://github.com/sudiptob2/sudiptob2.github.io/blob/7e8480c226a200ffbc8bc22b0ed233577296e875/files/resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'files/resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
