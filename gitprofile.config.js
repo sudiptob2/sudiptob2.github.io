@@ -52,6 +52,13 @@ const config = {
       to: 'Present',
       companyLink: 'https://www.bracits.com',
     },
+    {
+      company: 'Nippon System Create CO. LTD',
+      position: 'Softwre Engineer Trainee',
+      from: 'December 2019',
+      to: 'February 2021',
+      companyLink: 'https://www.n-s-c.co.jp',
+    },
   ],
   /* certifications: [
     {
@@ -94,7 +101,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'halloween',
+    defaultTheme: 'lofi',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
